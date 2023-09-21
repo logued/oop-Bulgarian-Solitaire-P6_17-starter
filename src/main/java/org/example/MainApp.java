@@ -1,7 +1,7 @@
-package org.example;                                    // OOP 2022
+package org.example;                                    // OOP 2023
 
 /*
-From: Big Java by C.Horstman -  STARTER October 2022       ArrayList demo.
+From: Big Java by C.Horstman -  STARTER Sept 2023       ArrayList demo.
 
 In this assignment, you will model the (game theory) game of Bulgarian Solitaire.
 The game starts with 45 card piles.
